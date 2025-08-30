@@ -6,7 +6,6 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 6º SEMESTRE DSM - 2025-2
 </h1>
-
 <h1 align='center'> :keyboard:  :keyboard: </h1>
 
 ## :mag_right: Índice
@@ -22,16 +21,22 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#equipe">Equipe</a> 
 </p>
 
+<span id="objetivo">
+
 ## Objetivo
 O objetivo do projeto é desenvolver um um sistema de busca semântica, a partir de um dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado a um chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email.
 
+<span id="sprints">
+    
 ## :pushpin: Sprints
 Na tabela abaixo é possível visualizar os resultados de cada Sprint. 
 | Sprint |   Início    |    Entrega  |            Status            |                              Relatório                             |        Vídeo       |
 |:------:|:-----------:|:-----------:|:----------------------------:|:------------------------------------------------------------------:|:------------------:|
-| Sprint | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | [Clique aqui](https://github.com/equipe-javali/API_6/tree/sprint1)  | :soon: Não Postado |
-| Sprint | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      | [Clique aqui](https://github.com/equipe-javali/API_6/tree/sprint2)  | :soon: Não Postado |
-| Sprint | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      | [Clique aqui](https://github.com/equipe-javali/API_6/tree/sprint3)  | :soon: Não Postado |
+| Sprint | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | Sem Relatório  | :soon: Não Postado |
+| Sprint | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      | Sem Relatório  | :soon: Não Postado |
+| Sprint | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      | Sem Relatório  | :soon: Não Postado |
+
+<span id="tecnologias">
 
 ### Tecnologias Utilizadas
 Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
@@ -46,6 +51,8 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Typescript](https://www.typescriptlang.org): Linguagem de programação do back-end
 
 → [Voltar ao topo](#topo)
+
+<span id="equipe">
 
 ## :busts_in_silhouette: Equipe
 |     Função    |         Nome        |                                                                                                    LinkedIn                                                                                                                             |                                                                                    GitHub                                                                                    |
