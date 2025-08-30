@@ -24,7 +24,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 <span id="objetivo">
 
 ## Objetivo
-O objetivo do projeto é desenvolver um um sistema de busca semântica, a partir de um dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado a um chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email.
+O objetivo do projeto é desenvolver um sistema de busca semântica, a partir da dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado ao chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email.
 
 <span id="sprints">
     
