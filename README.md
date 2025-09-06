@@ -45,9 +45,9 @@ O objetivo do projeto é desenvolver um sistema de busca semântica, a partir da
 Na tabela abaixo é possível visualizar os resultados de cada Sprint:
 | Sprint |   Início    |    Entrega  |            Status            |                  Relatório                   |        Vídeo       |
 |:------:|:-----------:|:-----------:|:----------------------------:|:--------------------------------------------:|:------------------:|
-| Sprint | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | <a href="documentação/sprint1">Veja aqui</a> | :soon: Não Postado |
-| Sprint | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
-| Sprint | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
+|   1    | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | <a href="documentação/sprint1">Veja aqui</a> | :soon: Não Postado |
+|   2    | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
+|   3    | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
 
 → [Voltar ao topo](#topo)
 
