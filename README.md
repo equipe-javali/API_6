@@ -10,35 +10,50 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :mag_right: Índice
 <p align='center'>
-    <a href="#objetivo">Objetivo</a> | 
-<!--     <a href="#cronograma">Cronograma</a> | -->
+    <a href="#objetivo">Objetivo</a> | <!-- 
+    <a href="#backlog">Backlog</a> |
+    <a href="#cronograma">Cronograma</a> | -->
     <a href="#sprints">Sprints</a> |
-    <a href="#tecnologias">Tecnologias</a> |
-<!--     <a href="#estrutura">Estrutura</a> | -->
-<!--     <a href="#execucao">Instruções para Executar o Projeto </a> | -->
-<!--     <a href="#testar">Instruções para Testar o Projeto </a> | -->
-<!--     <a href="#documentacao">Documentação</a> | -->
+    <a href="#tecnologias">Tecnologias</a> | <!-- 
+    <a href="#estrutura">Estrutura</a> |
+    <a href="#execucao">Execução</a> |
+    <a href="#teste">Teste</a> | -->
+    <a href="#documentacao">Documentação</a> |
     <a href="#equipe">Equipe</a> 
 </p>
 
 <span id="objetivo">
 
-## Objetivo
+## :dart: Objetivo
 O objetivo do projeto é desenvolver um sistema de busca semântica, a partir da dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado ao chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email.
+
+<!-- <span id="backlog">
+
+## :ledger: Backlog Total
+
+→ [Voltar ao topo](#topo)
+
+<span id="cronograma">
+
+## :calendar: Cronograma
+
+→ [Voltar ao topo](#topo) -->
 
 <span id="sprints">
     
 ## :pushpin: Sprints
-Na tabela abaixo é possível visualizar os resultados de cada Sprint. 
-| Sprint |   Início    |    Entrega  |            Status            |                              Relatório                             |        Vídeo       |
-|:------:|:-----------:|:-----------:|:----------------------------:|:------------------------------------------------------------------:|:------------------:|
-| Sprint | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | Sem Relatório  | :soon: Não Postado |
-| Sprint | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      | Sem Relatório  | :soon: Não Postado |
-| Sprint | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      | Sem Relatório  | :soon: Não Postado |
+Na tabela abaixo é possível visualizar os resultados de cada Sprint:
+| Sprint |   Início    |    Entrega  |            Status            |                  Relatório                   |        Vídeo       |
+|:------:|:-----------:|:-----------:|:----------------------------:|:--------------------------------------------:|:------------------:|
+| Sprint | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | <a href="documentação/sprint1">Veja aqui</a> | :soon: Não Postado |
+| Sprint | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
+| Sprint | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
+
+→ [Voltar ao topo](#topo)
 
 <span id="tecnologias">
 
-### Tecnologias Utilizadas
+## :toolbox: Tecnologias Utilizadas
 Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
 - [AWS](https://aws.amazon.com): Plataforma de Hospedagem
 - [Figma](https://www.figma.com): Prototipagem
@@ -49,6 +64,35 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Shortcut](https://app.shortcut.com): Organização de tarefas
 - [Swagger](https://swagger.io): Documentação das rotas no back-end
 - [Typescript](https://www.typescriptlang.org): Linguagem de programação do back-end
+
+→ [Voltar ao topo](#topo)
+
+<!-- <span id="estrutura">
+
+## 🏗️  Estrutura do Projeto
+
+→ [Voltar ao topo](#topo)
+
+<!-- <span id="execucao">
+
+## :gear: Instruções para Executar o Projeto 
+
+→ [Voltar ao topo](#topo)
+
+<!-- <span id="teste">
+
+## 🧪 Instruções para Testar o Projeto 
+
+→ [Voltar ao topo](#topo) -->
+
+<span id="documentacao">
+
+## :pencil: Documentação
+Para visualizar o que foi documentado, <a href="documentação">Acesse aqui</a>. Nela você encontrará:
+<!-- - Checklist DoR e DoD -->
+- Estratégia de Branches
+<!-- - Manual de Usuário
+- Manual de Instalação -->
 
 → [Voltar ao topo](#topo)
 
