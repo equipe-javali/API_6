@@ -53,6 +53,8 @@ Na tabela abaixo é possível visualizar o Product Backlog com suas *User Storie
 |  19  |   Baixa    |                 Como usuário quero que minha senha seja criptografada e autenticada para a segurança dos meus dados.                 |     8      |   3    |   RF-1   |
 |  20  |   Baixa    |                  Como usuário quero recuperar minha senha para que quando eu esquecê-la eu não perder minha conta.                   |     7      |   3    |   RF-1   |
 |  21  |   Baixa    |                Como usuário quero alterar minha senha para eu ajusta-la de acordo com minha preferências e segurança.                |     5      |   3    |   RF-1   |
+|  22  |   Baixa    |                Como usuário quero um manual de como utilizar o sistema para minha conveniência e agilização deste.              |     3      |   3    |   RNF-3   |
+|  23  |   Baixa    |   Como desenvolvedor quero um manual de como instalar configurar e executar o sistema para facilitar a sua implementação e manutenção.         |     3      |   3    |   RF-1   |
 
 → [Voltar ao topo](#topo)
 
