@@ -10,16 +10,28 @@ DOCUMENTAÇÃO
 <h1 align='center'> :keyboard:  :keyboard: </h1>
 
 ## :mag_right: Índice
-<p align='center'> <!-- 
-    <a href="#checklist">Checklist DoR e DoD</a>  | -->
+<p align='center'> 
+    <a href="#checklist">Checklist DoR e DoD</a>  |
     <a href="#estrategia">Estratégia de Branches</a> <!-- |
     <a href="#usuario">Manual de Usuário</a> |
     <a href="#instalacao">:floppy_disk: Manual de Instalação</a> -->
 </p>
 
-<!-- <span id="checklist">
+<span id="checklist">
 
-## :pushpin: Checklist DoR e DoD -->
+## :pushpin: Checklist DoR e DoD 
+### DoR - Definition of Ready
+- User Stories com DoD
+- Subtarefas divididas a partir das User Stories
+- Design no Figma
+- Modelagem do Banco de Dados
+- Modelo de Boletim e Datasets
+### DoD - Definition of Done
+- Manual de Usuário
+- Manual de Instalação
+- Documentação do Sistema
+- Atendimento aos requisitos
+- Vídeos de cada etapa de entrega
 
 <span id="estrategia">
 
