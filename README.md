@@ -29,6 +29,11 @@ O objetivo do projeto é desenvolver um sistema de busca semântica, a partir da
 <span id="backlog">
 
 ## :ledger: Backlog Total
+
+Abaixo se encontram os requisitos funcionais e não funcionais:
+
+<img width="851" height="413" alt="image" src="https://github.com/user-attachments/assets/cbffae00-2ebc-4945-b67b-1f13544eca40" />
+
 Na tabela abaixo é possível visualizar o Product Backlog com suas *User Stories*:
 | Rank | Prioridade |                                                              User Story                                                              | Estimativa | Sprint | Requisto |
 |:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|
