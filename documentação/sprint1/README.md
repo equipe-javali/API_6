@@ -33,19 +33,15 @@ Sprint 1
 ## :clipboard: Épicos
 Abaixo estão os requisitos abordados nesta sprint:
 
-<!-- ![Requisitos]() -->
-<!-- :pushpin: RF-0 -->
-<!-- :pushpin: NRF-0 -->
+Na imagem abaixo se encontram os requisitos trabalhados nesta sprint:
+
+<img width="1157" height="176" alt="image" src="https://github.com/user-attachments/assets/1a4ab842-3859-4bc7-9cea-8419a122d4ab" />
 
 → [Voltar ao topo](#topo)
 
 <span id="backlog">
 
 ## :bookmark_tabs: Sprint Backlog
-
-Na imagem abaixo se encontram os requisitos trabalhados nesta sprint:
-
-<img width="1157" height="176" alt="image" src="https://github.com/user-attachments/assets/1a4ab842-3859-4bc7-9cea-8419a122d4ab" />
 
 Abaixo está o backlog desta sprint:
 
