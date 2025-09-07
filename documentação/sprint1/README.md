@@ -44,18 +44,18 @@ Abaixo estão os requisitos abordados nesta sprint:
 ## :bookmark_tabs: Sprint Backlog
 Abaixo está o backlog desta sprint:
 
-| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Sprint | Requisto |
-|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|
-|  1   |    Alta    |                  Como usuário quero receber um boletim sobre as informações do dataset para saber a situação deste.                  |     22     |   1    |   RF-2   |
-|  2   |    Alta    |                   Como cliente quero uma tela de cadastro de usuários para ter um controle de quem usa o sistema.                    |     5      |   1    |   RF-1   |
-|  3   |    Alta    |      Como administrador quero selecionar os usuários que receberão o boletim automatico para controle de acesso de informações.      |     5      |   1    |   RF-1   |
-|  4   |    Alta    |            Como desenvolvedor quero um modelo do banco de dados para ter uma noção de comos os dados vão ser organizados.            |     5      |   1    |  RNF-5   |
-|  5   |    Alta    |                    Como cliente quero uma lista de usuários e administradores para gerenciar melhor os usuários.                     |     4      |   1    |   RF-1   |
-|  6   |    Alta    |                       Como usuário quero fazer login no sistema para autenticar que eu mesmo estou acessando.                        |     4      |   1    |   RF-1   |
-|  7   |    Alta    |                         Como administrador quero excluir usuário para não dar acesso a pessoas indesejadas.                          |     3      |   1    |   RF-1   |
-|  8   |    Alta    |        Como cliente quero que os dados dos usuário sejam salvo em um banco de dados para ter uma armanezamento dos usuários.         |     3      |   1    |   RF-1   |
-|  9   |   Baixa    |                       Como cliente quero uma documentação constante do projeto para melhor compreensão deste.                        |     7      |   1    |  RNF-5   |
-|  10  |   Baixa    |                             Como cliente quero um protótipo de projeto para ter uma idéia de com ficará.                             |     6      |   1    |  RNF-5   |
+| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Sprint | Requisto | DoD |
+|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|:--------:|:---:|
+|  1   |    Alta    |                  Como usuário quero receber um boletim sobre as informações do dataset para saber a situação deste.                  |     22     |   1    |   RF-2   | - Envio do boletim segundo o modelo enviado. - Envio do boletim para o email do usuário.|
+|  2   |    Alta    |                   Como cliente quero uma tela de cadastro de usuários para ter um controle de quem usa o sistema.                    |     5      |   1    |   RF-1   | - Cadastro de usuário com informações de email e senha. - Salvar usuário no banco de dados.|
+|  3   |    Alta    |      Como administrador quero selecionar os usuários que receberão o boletim automatico para controle de acesso de informações.      |     5      |   1    |   RF-1   | - Seleção de permissões de qual usuário receberá o boletim.|
+|  4   |    Alta    |            Como desenvolvedor quero um modelo do banco de dados para ter uma noção de comos os dados vão ser organizados.            |     5      |   1    |  RNF-5   | - Deve ser documentado um modelo físico representando entidades e relacionamentos.|
+|  5   |    Alta    |                    Como cliente quero uma lista de usuários e administradores para gerenciar melhor os usuários.                     |     4      |   1    |   RF-1   | - Lista com todos os usuários cadastrado.|
+|  6   |    Alta    |                       Como usuário quero fazer login no sistema para autenticar que eu mesmo estou acessando.                        |     4      |   1    |   RF-1   ||
+|  7   |    Alta    |                         Como administrador quero excluir usuário para não dar acesso a pessoas indesejadas.                          |     3      |   1    |   RF-1   ||
+|  8   |    Alta    |        Como cliente quero que os dados dos usuário sejam salvo em um banco de dados para ter uma armanezamento dos usuários.         |     3      |   1    |   RF-1   ||
+|  9   |   Baixa    |                       Como cliente quero uma documentação constante do projeto para melhor compreensão deste.                        |     7      |   1    |  RNF-5   ||
+|  10  |   Baixa    |                             Como cliente quero um protótipo de projeto para ter uma idéia de com ficará.                             |     6      |   1    |  RNF-5   ||
 
 - Meta da Sprint: 1, 2, 3, 4, 6, 7 e 8	
 - Previsão da Sprint: 5, 9, 10
