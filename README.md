@@ -10,9 +10,8 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :mag_right: Índice
 <p align='center'>
-    <a href="#objetivo">Objetivo</a> | <!-- 
+    <a href="#objetivo">Objetivo</a> | 
     <a href="#backlog">Backlog</a> |
-    <a href="#cronograma">Cronograma</a> | -->
     <a href="#sprints">Sprints</a> |
     <a href="#tecnologias">Tecnologias</a> | <!-- 
     <a href="#estrutura">Estrutura</a> |
@@ -27,17 +26,35 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 ## :dart: Objetivo
 O objetivo do projeto é desenvolver um sistema de busca semântica, a partir da dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado ao chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email.
 
-<!-- <span id="backlog">
+<span id="backlog">
 
 ## :ledger: Backlog Total
+Na tabela abaixo é possível visualizar o Product Backlog com suas *User Stories*:
+| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Sprint |
+|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:------:|
+|  1   |    Alta    |                  Como usuário quero receber um boletim sobre as informações do dataset para saber a situação deste.                  |     22     |   1    |
+|  2   |    Alta    |                   Como cliente quero uma tela de cadastro de usuários para ter um controle de quem usa o sistema.                    |     5      |   1    |
+|  3   |    Alta    |      Como administrador quero selecionar os usuários que receberão o boletim automatico para controle de acesso de informações.      |     5      |   1    |
+|  4   |    Alta    |            Como desenvolvedor quero um modelo do banco de dados para ter uma noção de comos os dados vão ser organizados.            |     5      |   1    |
+|  5   |    Alta    |                    Como cliente quero uma lista de usuários e administradores para gerenciar melhor os usuários.                     |     4      |   1    |
+|  6   |    Alta    |                       Como usuário quero fazer login no sistema para autenticar que eu mesmo estou acessando.                        |     4      |   1    |
+|  7   |    Alta    |                         Como administrador quero excluir usuário para não dar acesso a pessoas indesejadas.                          |     3      |   1    |
+|  8   |    Alta    |        Como cliente quero que os dados dos usuário sejam salvo em um banco de dados para ter uma armanezamento dos usuários.         |     3      |   1    |
+|  9   |   Baixa    |                       Como cliente quero uma documentação constante do projeto para melhor compreensão deste.                        |     7      |   1    |
+|  10  |   Baixa    |                             Como cliente quero um protótipo de projeto para ter uma idéia de com ficará.                             |     6      |   1    |
+|  11  |    Alta    |     Como cliente quero uma agente de IA que seja treinado no dataset da empresa para ser mais fácil o esclarecimento de dúvidas.     |     19     |   2    |
+|  12  |    Alta    |                                  Como usuário quero um chatbot para tirar dúvidas sobre o dataset.                                   |     12     |   2    |
+|  13  |    Alta    |              Como cliente quero ter usuário administradores e usuários padrões para ter um controle melhor do sistema.               |     5      |   2    |
+|  14  |   Média    | Como cliente quero que a IA responda questões restritamente relacionadas ao dataset para ser mais fácil o exclarecimento de dúvidas. |     12     |   2    |
+|  15  |   Média    | Como cliente quero que o boletim seja enviado automaticamente toda semana para a minha conveniência.                                 |     9      |   2    |
+|  16  |   Média    |                      Como usuário quero ver o meu histórico de conversa no chatbot para re-ver minhas dúvidas.                       |     7      |   2    |
+|  17  |   Média    |                       Como cliente quero a IA hospedado em nuvem para facilitamento de utilização e segurança.                       |     9      |   3    |
+|  18  |   Baixa    |            Como usuário quero que o sistema funcione tanto como um site, aplicativo e desktop para eu usar quando quiser.            |     11     |   3    |
+|  19  |   Baixa    |                 Como usuário quero que minha senha seja criptografada e autenticada para a segurança dos meus dados.                 |     8      |   3    |
+|  20  |   Baixa    |                  Como usuário quero recuperar minha senha para que quando eu esquecê-la eu não perder minha conta.                   |     7      |   3    |
+|  21  |   Baixa    |                Como usuário quero alterar minha senha para eu ajusta-la de acordo com minha preferências e segurança.                |     5      |   3    |
 
 → [Voltar ao topo](#topo)
-
-<span id="cronograma">
-
-## :calendar: Cronograma
-
-→ [Voltar ao topo](#topo) -->
 
 <span id="sprints">
     
