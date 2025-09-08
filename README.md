@@ -67,11 +67,11 @@ Na tabela abaixo é possível visualizar o Product Backlog com suas *User Storie
     
 ## :pushpin: Sprints
 Na tabela abaixo é possível visualizar os resultados de cada Sprint:
-| Sprint |   Início    |    Entrega  |            Status            |                  Relatório                   |        Vídeo       |
-|:------:|:-----------:|:-----------:|:----------------------------:|:--------------------------------------------:|:------------------:|
-|   1    | 08/09/2025  |  28/09/2025 |     :soon: Não iniciada      | <a href="documentação/sprint1">Veja aqui</a> | :soon: Não Postado |
-|   2    | 06/10/2025  |  26/10/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
-|   3    | 03/11/2025  |  23/11/2025 |     :soon: Não iniciada      |                Sem Relatório                 | :soon: Não Postado |
+| Sprint |   Início    |    Entrega  |                Status                 |                  Relatório                   |        Vídeo       |
+|:------:|:-----------:|:-----------:|:-------------------------------------:|:--------------------------------------------:|:------------------:|
+|   1    | 08/09/2025  |  28/09/2025 | :hourglass_flowing_sand: Em andamento | <a href="documentação/sprint1">Veja aqui</a> | :soon: Não Postado |
+|   2    | 06/10/2025  |  26/10/2025 |          :soon: Não iniciada          |                Sem Relatório                 | :soon: Não Postado |
+|   3    | 03/11/2025  |  23/11/2025 |          :soon: Não iniciada          |                Sem Relatório                 | :soon: Não Postado |
 
 → [Voltar ao topo](#topo)
 
@@ -113,7 +113,7 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 
 ## :pencil: Documentação
 Para visualizar o que foi documentado, <a href="documentação">Acesse aqui</a>. Nela você encontrará:
-<!-- - Checklist DoR e DoD -->
+- Checklist DoR e DoD
 - Estratégia de Branches
 <!-- - Manual de Usuário
 - Manual de Instalação -->
