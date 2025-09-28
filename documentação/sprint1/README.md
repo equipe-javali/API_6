@@ -106,7 +106,7 @@ Abaixo está o fluxo de entregas desta sprint:
 
 ## :rocket: MVP - Minimum Viable Product
 <p align="justify">
-    O produto mínimo viável desta sprint consiste em um sistema funcional capaz de cadastrar, autenticar, listar e excluir usuários, armazenando todas as informações em um banco de dados devidamente configurado. Além disso, o MVP contempla o envio de boletins automáticos via e-mail, com base em permissões atribuídas aos usuários e seguindo o modelo previamente definido. <!-- Para visualizar o que foi desenvolvido no projeto, <a href="">acesse aqui</a>. -->
+    O produto mínimo viável desta sprint consiste em um sistema funcional capaz de cadastrar, autenticar, listar e excluir usuários, armazenando todas as informações em um banco de dados devidamente configurado. Além disso, o MVP contempla o envio de boletins automáticos via e-mail, com base em permissões atribuídas aos usuários e seguindo o modelo previamente definido. Para visualizar o que foi desenvolvido no projeto, <a href="https://youtu.be/DA4M8VQmLi8">acesse aqui</a>.
 </p>
 
 → [Voltar ao topo](#topo) 
