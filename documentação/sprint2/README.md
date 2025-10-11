@@ -42,7 +42,14 @@ Abaixo estão os requisitos abordados nesta sprint:
 ## :bookmark_tabs: Sprint Backlog
 
 Abaixo está o backlog desta sprint:
-
+| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Requisto | DoD |
+|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:---:|
+|  11  |    Alta    |     Como cliente quero uma agente de IA que seja treinado no dataset da empresa para ser mais fácil o esclarecimento de dúvidas.     |     29     |   RF-3   |     |
+|  12  |    Alta    |                                  Como usuário quero um chatbot para tirar dúvidas sobre o dataset.                                   |     10     |   RF-3   |     |
+|  13  |    Alta    |              Como cliente quero ter usuário administradores e usuários padrões para ter um controle melhor do sistema.               |     10     |   RF-1   |     |
+|  14  |   Média    | Como cliente quero que a IA responda questões restritamente relacionadas ao dataset para ser mais fácil o exclarecimento de dúvidas. |     13     |   RF-3   |     |
+|  15  |   Média    |                 Como cliente quero que o boletim seja enviado automaticamente toda semana para a minha conveniência.                 |     5      |   RF-2   |     |
+|  16  |   Média    |                      Como usuário quero ver o meu histórico de conversa no chatbot para re-ver minhas dúvidas.                       |     16     |   RF-3   |     |
 
 - Meta da Sprint: 11, 12, 13
 - Previsão da Sprint: 14, 15, 16
