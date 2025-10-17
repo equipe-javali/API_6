@@ -33,6 +33,8 @@ Sprint 2
 ## :clipboard: Épicos
 Abaixo estão os requisitos abordados nesta sprint:
 
+<img width="1202" height="183" alt="image" src="https://github.com/user-attachments/assets/a80f84ad-802d-46f2-9ab0-176846712f8a" />
+
 <!-- <img width="1157" height="176" alt="image" src="link" /> -->
 
 → [Voltar ao topo](#topo)
