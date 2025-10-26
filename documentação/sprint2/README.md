@@ -33,9 +33,7 @@ Sprint 2
 ## :clipboard: Épicos
 Abaixo estão os requisitos abordados nesta sprint:
 
-<img width="1202" height="183" alt="image" src="https://github.com/user-attachments/assets/a80f84ad-802d-46f2-9ab0-176846712f8a" />
-
-<!-- <img width="1157" height="176" alt="image" src="link" /> -->
+<img width="1157" height="176" alt="image" src="https://github.com/user-attachments/assets/a80f84ad-802d-46f2-9ab0-176846712f8a" />
 
 → [Voltar ao topo](#topo)
 
@@ -44,14 +42,14 @@ Abaixo estão os requisitos abordados nesta sprint:
 ## :bookmark_tabs: Sprint Backlog
 
 Abaixo está o backlog desta sprint:
-| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Requisto | DoD |
-|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:---:|
-|  11  |    Alta    |     Como cliente quero uma agente de IA que seja treinado no dataset da empresa para ser mais fácil o esclarecimento de dúvidas.     |     29     |   RF-3   |     |
-|  12  |    Alta    |                                  Como usuário quero um chatbot para tirar dúvidas sobre o dataset.                                   |     10     |   RF-3   |     |
-|  13  |    Alta    |              Como cliente quero ter usuário administradores e usuários padrões para ter um controle melhor do sistema.               |     10     |   RF-1   |     |
-|  14  |   Média    | Como cliente quero que a IA responda questões restritamente relacionadas ao dataset para ser mais fácil o exclarecimento de dúvidas. |     13     |   RF-3   |     |
-|  15  |   Média    |                 Como cliente quero que o boletim seja enviado automaticamente toda semana para a minha conveniência.                 |     5      |   RF-2   |     |
-|  16  |   Média    |                      Como usuário quero ver o meu histórico de conversa no chatbot para re-ver minhas dúvidas.                       |     16     |   RF-3   |     |
+| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Requisto | DoD                                                                                                              |
+|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:----------------------------------------------------------------------------------------------------------------:|
+|  11  |    Alta    |     Como cliente quero uma agente de IA que seja treinado no dataset da empresa para ser mais fácil o esclarecimento de dúvidas.     |     29     |   RF-3   | Um agente de IA treinado com os dados do dataset disprovido pelo cliente, o qual dê respotas compreesivas sobre. |
+|  12  |    Alta    |                                  Como usuário quero um chatbot para tirar dúvidas sobre o dataset.                                   |     10     |   RF-3   |                    Um chatbot que responda perguntas do usuário sobre o dataset da empresa                       |
+|  13  |    Alta    |              Como cliente quero ter usuário administradores e usuários padrões para ter um controle melhor do sistema.               |     10     |   RF-1   |                         Separação de usuários em usuários padrões e administradores                              |
+|  14  |   Média    | Como cliente quero que a IA responda questões restritamente relacionadas ao dataset para ser mais fácil o exclarecimento de dúvidas. |     13     |   RF-3   |            Restringimento das respostas do agente de IA para apenas perguntas relacionadas ao dataset            |
+|  15  |   Média    |                 Como cliente quero que o boletim seja enviado automaticamente toda semana para a minha conveniência.                 |     5      |   RF-2   |                               Envio do boletim automaticamente toda semana                                       |
+|  16  |   Média    |                      Como usuário quero ver o meu histórico de conversa no chatbot para re-ver minhas dúvidas.                       |     16     |   RF-3   |                              Listagem das mensagens enviadas para o chatbot                                      |
 
 - Meta da Sprint: 11, 12, 13
 - Previsão da Sprint: 14, 15, 16
