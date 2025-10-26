@@ -90,11 +90,11 @@ Esta sprint só estará completa quando a equipe concluir:
 ## :chart_with_downwards_trend: Burndown da Sprint
 Abaixo está o fluxo de entregas desta sprint:
 
-<!-- <img
+<img
     alt="burndown_sprint_2"
     src="burndown.png"
     width="775"
-/> -->
+/>
 
 → [Voltar ao topo](#topo)
 
