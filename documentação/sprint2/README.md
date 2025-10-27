@@ -102,8 +102,7 @@ Abaixo está o fluxo de entregas desta sprint:
 
 ## :rocket: MVP - Minimum Viable Product
 <p align="justify">
-    O produto mínimo viável desta sprint consiste em um chatbot com agente de IA capaz de responder perguntas sobre os datasets fornecidos. Além disso, o MVP contempla a implementação de controle de usuários com distinção entre usuários padrão e administradores, garantindo que o usuário padrão tenha acesso restrito exclusivamente à interação com o chatbot.
-    <!-- Para visualizar o que foi desenvolvido no projeto, <a href="link">acesse aqui</a>. -->
+    O produto mínimo viável desta sprint consiste em um chatbot com agente de IA capaz de responder perguntas sobre os datasets fornecidos. Além disso, o MVP contempla a implementação de controle de usuários com distinção entre usuários padrão e administradores, garantindo que o usuário padrão tenha acesso restrito exclusivamente à interação com o chatbot. Para visualizar o que foi desenvolvido no projeto, <a href="https://youtu.be/y8vQah5-cqA">acesse aqui</a>.
 </p>
 
 → [Voltar ao topo](#topo) 

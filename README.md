@@ -70,7 +70,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint:
 | Sprint |   Início    |    Entrega  |                Status                 |                  Relatório                   |                          Vídeo                         |
 |:------:|:-----------:|:-----------:|:-------------------------------------:|:--------------------------------------------:|:------------------------------------------------------:|
 |   1    | 08/09/2025  |  28/09/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint1">Veja aqui</a> | <a href="https://youtu.be/DA4M8VQmLi8">Acesse aqui</a> |
-|   2    | 06/10/2025  |  26/10/2025 | :hourglass_flowing_sand: Em andamento | <a href="documentação/sprint2">Veja aqui</a> |                   :soon: Não Postado                   |
+|   2    | 06/10/2025  |  26/10/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint2">Veja aqui</a> | <a href="https://youtu.be/y8vQah5-cqA">Acesse aqui</a> |
 |   3    | 03/11/2025  |  23/11/2025 |          :soon: Não iniciada          |                Sem Relatório                 |                   :soon: Não Postado                   |
 
 → [Voltar ao topo](#topo)
