@@ -12,8 +12,8 @@ DOCUMENTAÇÃO
 ## :mag_right: Índice
 <p align='center'> 
     <a href="#checklist">Checklist DoR e DoD</a>  |
-    <a href="#estrategia">Estratégia de Branches</a> <!-- |
-    <a href="#usuario">Manual de Usuário</a> |
+    <a href="#estrategia">Estratégia de Branches</a>  |
+    <a href="#usuario">Manual de Usuário</a><!--  |
     <a href="#instalacao">:floppy_disk: Manual de Instalação</a> -->
 </p>
 
@@ -71,13 +71,51 @@ Exemplos:
 
 → [Voltar ao topo](#topo)
 
-<!-- <span id="usuario">
+<span id="usuario">
 
 ## :bust_in_silhouette: Manual de Usuário
 
+Bem-vindo ao manual de usuário do projeto Javali, desenvolvido no contexto da Aprendizagem por Projetos Integrados. Este documento tem como objetivo guiar os usuários em como utilizar a aplicação de forma eficiente e sem problemas. Abaixo, você encontrará instruções detalhadas de como interagir com as funcionalidades da aplicação.
+
+1. Introdução
+
+A aplicação foi desenvolvida para a partir da dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado ao chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email. Este manual tem como objetivo fornecer as informações necessárias para que os usuários possam utilizar as funcionalidades da aplicação com facilidade.
+
+2. Acesso ao Sistema
+2.1 Como Acessar a Plataforma
+
+Abra o navegador de sua escolha e vá até o seguinte endereço: [URL da aplicação].
+
+Você verá a tela de login. Insira seu e-mail e senha para acessar.
+
+2.2 Primeiros Passos
+
+2.2.1 Administrador
+
+Após o login, você será redirecionado à página inicial. A partir daqui, você poderá navegar pelas funcionalidades principais, como gerenciamento dos demais usuários (cria, deleta e modifica os usuparios, além de habilitar e desabilitar o envio do boletim).
+
+2.2.2 Usuário comum
+
+Após o login, você verá o chat por onde você poderá tirar dúvidas sobre a base de dados. Você poderá também, trocar a própria senha.
+
+3. Funcionalidades
+3.1 Boletim
+
+Há um botelim enviado semanalmente com uma análise dos dados das últimas semanas da base de dados.
+
+O boletim chega via e-mail para os usuários que estão habilitados.
+
+3.2 Chat
+
+O chat possibilita que os usuários tirem dúvidas sobre a base de dados com linguagem natural.
+
+4. Conclusão
+
+Obrigado por utilizar a plataforma Clara! Esperamos que este manual tenha sido útil e que você aproveite a experiência.
+
 → [Voltar ao topo](#topo)
 
-<span id="instalacao">
+<!-- <span id="instalacao">
     
 ## :floppy_disk: Manual de Instalação
 
