@@ -13,8 +13,8 @@ DOCUMENTAÇÃO
 <p align='center'> 
     <a href="#checklist">Checklist DoR e DoD</a>  |
     <a href="#estrategia">Estratégia de Branches</a>  |
-    <a href="#usuario">Manual de Usuário</a><!--  |
-    <a href="#instalacao">:floppy_disk: Manual de Instalação</a> -->
+    <a href="#usuario">Manual de Usuário</a>
+    <a href="#instalacao">:floppy_disk: Manual de Instalação</a>
 </p>
 
 <span id="checklist">
@@ -115,8 +115,94 @@ Obrigado por utilizar a plataforma Clara! Esperamos que este manual tenha sido �
 
 → [Voltar ao topo](#topo)
 
-<!-- <span id="instalacao">
+
+<span id="instalacao">
     
 ## :floppy_disk: Manual de Instalação
 
-→ [Voltar ao topo](#topo) -->
+<p align='center'> 
+    <a href="#instalacao-front">Front End</a>  |
+    <a href="#instalacao-back">Back End</a>  |
+    <a href="#instalacao-banco">Banco de dados</a>
+</p>
+
+
+<span id="instalacao-front">
+
+### Front End
+
+**⚙️ Requisitos mínimos**
+
+Antes de começar, certifique-se de que as seguintes ferramentas estão instaladas:
+
+| Ferramenta | Versão recomendada | Link de instalação |
+|-------------|--------------------|--------------------|
+| **Flutter SDK** | 3.x ou superior | [flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install) |
+| **Git** | 2.x ou superior | [git-scm.com/downloads](https://git-scm.com/downloads) |
+| **Editor de código** | VS Code ou Android Studio | [code.visualstudio.com](https://code.visualstudio.com) |
+| **Emulador Android / iOS** | Opcional (para testes locais) | via Android Studio ou Xcode |
+
+---
+
+**📥 Instalação do projeto**
+
+1. **Clonar o repositório**
+   ```bash
+   git clone https://github.com/equipe-javali/API_6_FRONT.git
+   ```
+
+2. **Acessar o diretório do projeto**
+   ```bash
+   cd API_6_FRONT
+   ```
+
+3. **Instalar as dependências**
+   ```bash
+   flutter pub get
+   ```
+
+4. **Executar o projeto**
+   ```bash
+   flutter run
+   ```
+
+> 💡 Dica: se houver mais de um dispositivo/emulador conectado, use  
+> `flutter devices` para listar e `flutter run -d <device_id>` para escolher o destino.
+
+---
+
+**🧼 Solução de problemas**
+
+| Problema | Solução recomendada |
+|-----------|---------------------|
+| **Erro “pub get failed”** | Execute `flutter clean` e depois `flutter pub get`. |
+| **App não abre no emulador** | Verifique se há um dispositivo ativo (`flutter devices`). |
+| **Erro de conexão com API** | Confirme o IP e a porta no arquivo de configuração da API. |
+| **Erro de versão do Flutter** | Execute `flutter --version` e atualize se necessário. |
+
+---
+
+**🧪 Teste rápido**
+
+Após `flutter run`, o app deve abrir exibindo a tela inicial (login).
+Utilize nosso usuário padrão:
+
+- Usuário: izumi.fatec@gmail.com
+- Senha: senha
+
+Verifique se os componentes estão sendo renderizados corretamente e se o log do terminal indica carregamento do frontend com sucesso.
+
+---
+
+<span id="instalacao-back">
+
+### Back End
+
+
+<span id="instalacao-banco">
+
+### Banco de dados
+
+
+
+→ [Voltar ao topo](#topo)
