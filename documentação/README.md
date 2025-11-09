@@ -13,8 +13,8 @@ DOCUMENTAÇÃO
 <p align='center'> 
     <a href="#checklist">Checklist DoR e DoD</a>  |
     <a href="#estrategia">Estratégia de Branches</a>  |
-    <a href="#usuario">Manual de Usuário</a>
-    <a href="#instalacao">:floppy_disk: Manual de Instalação</a>
+    <a href="#usuario">Manual de Usuário</a> |
+    <a href="#instalacao"> Manual de Instalação</a>
 </p>
 
 <span id="checklist">
@@ -115,17 +115,88 @@ Obrigado por utilizar a plataforma Clara! Esperamos que este manual tenha sido �
 
 → [Voltar ao topo](#topo)
 
+<br>
+<br>
 
 <span id="instalacao">
     
 ## :floppy_disk: Manual de Instalação
 
 <p align='center'> 
-    <a href="#instalacao-front">Front End</a>  |
     <a href="#instalacao-back">Back End</a>  |
+    <a href="#instalacao-front">Front End</a>  |
     <a href="#instalacao-banco">Banco de dados</a>
 </p>
 
+<span id="instalacao-back">
+
+---
+
+### Back End
+
+**⚙️ Requisitos mínimos**
+
+Antes de começar, certifique-se de ter instalado:
+
+| Ferramenta | Versão recomendada | Link de instalação |
+|-------------|--------------------|--------------------|
+| **Python** | 3.10 ou superior | [python.org/downloads](https://www.python.org/downloads/) |
+| **Git** | 2.x ou superior | [git-scm.com/downloads](https://git-scm.com/downloads) |
+| **Editor de código** | VS Code, PyCharm ou similar | [code.visualstudio.com](https://code.visualstudio.com) |
+| **Pip** | incluído com Python | — |
+
+---
+
+<br>
+
+**📥 Instalação do projeto**
+
+1. **Clonar o repositório**
+   ```bash
+   git clone https://github.com/equipe-javali/API_6_BACK.git
+   ```
+
+2. **Acessar o diretório**
+
+    ```bash
+    cd API_6_BACK
+    ```
+
+3. **Criar e ativar ambiente virtual**
+    
+    ```bash
+    # Windows
+    python -m venv venv
+    venv\Scripts\activate
+    
+    # Linux / Mac
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+4. **Instalar as dependências**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+---
+<br>
+
+**▶️ Executar o servidor**
+
+ 1. Rodar o servidor FastAPI (garanta que continua no diretório `API_6_BACK`, se não acesse com `cd API_6_BACK`)
+    
+    ```bash
+    python run
+    ```
+
+2. Acessar a documentação interativa
+    - Swagger UI: http://127.0.0.1:8000/docs
+
+3. Executar o frontend (API_6_FRONT)
+   - Para testar integração, garanta que o backend esteja rodando localmente antes de iniciar o app Flutter.
+
+<br>
 
 <span id="instalacao-front">
 
@@ -184,25 +255,38 @@ Antes de começar, certifique-se de que as seguintes ferramentas estão instalad
 
 **🧪 Teste rápido**
 
-Após `flutter run`, o app deve abrir exibindo a tela inicial (login).
-Utilize nosso usuário padrão:
-
-- Usuário: izumi.fatec@gmail.com
-- Senha: senha
+Após `flutter run`, o app deve abrir exibindo a tela inicial (login). Utilize o seu login e senha para acessar a aplicação.
 
 Verifique se os componentes estão sendo renderizados corretamente e se o log do terminal indica carregamento do frontend com sucesso.
 
 ---
 
-<span id="instalacao-back">
-
-### Back End
-
+<br>
 
 <span id="instalacao-banco">
 
 ### Banco de dados
 
+O backend utiliza um banco de dados PostgreSQL hospedado na plataforma **Neon.tech**, com autenticação restrita à equipe do projeto.
+
+**🌐 Acesso e Conexão Segura**
+
+As credenciais **não são públicas** e não estão versionadas no repositório.
+
+A aplicação utiliza variáveis de ambiente armazenadas em um arquivo `.env` (não commitado no GitHub), com a seguinte estrutura:
+
+```env
+DATABASE_URL=postgresql+psycopg2://usuario:senha@ep-nome-do-banco.us-east-1.aws.neon.tech/db_nome
+```
+
+> ⚠️ Atenção:
+> O arquivo .env deve ser criado manualmente pelos desenvolvedores autorizados.
+> Para solicitar acesso ao banco, entre em contato com o responsável pela infraestrutura da equipe.
+
+
+Caso queira subir um banco local, a nossa estrutura está documentada nos seguintes links:
+- [Modelo de dados](https://github.com/equipe-javali/API_6_BD?tab=readme-ov-file#modelo)
+- [Dicionário de dados](https://github.com/equipe-javali/API_6_BD?tab=readme-ov-file#scroll-dicion%C3%A1rio-de-dados)
 
 
 → [Voltar ao topo](#topo)
