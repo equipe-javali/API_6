@@ -53,9 +53,9 @@ Na tabela abaixo é possível visualizar o Product Backlog com suas *User Storie
 |  14  |   Média    | Como cliente quero que a IA responda questões restritamente relacionadas ao dataset para ser mais fácil o exclarecimento de dúvidas. |     13     |   2    |   RF-3   |
 |  15  |   Média    |                 Como cliente quero que o boletim seja enviado automaticamente toda semana para a minha conveniência.                 |     5      |   2    |   RF-2   |
 |  16  |   Média    |                      Como usuário quero ver o meu histórico de conversa no chatbot para re-ver minhas dúvidas.                       |     16     |   2    |   RF-3   |
-|  17  |   Média    |                    Como cliente quero o sistema hospedado em nuvem para facilitamento de utilização e segurança.                     |     11     |   3    |  RNF-2   |
-|  18  |   Baixa    |            Como usuário quero que o sistema funcione tanto como um site, aplicativo e desktop para eu usar quando quiser.            |     11     |   3    |  RNF-1   |
-|  19  |   Baixa    |                 Como usuário quero que minha senha seja criptografada e autenticada para a segurança dos meus dados.                 |     8      |   3    |   RF-1   |
+|  17  |   Média    |                    Como cliente quero o sistema hospedado em nuvem para facilitamento de utilização e segurança.                     |     41     |   3    |  RNF-2   |
+|  18  |   Baixa    |            Como usuário quero que o sistema funcione tanto como um site, aplicativo e desktop para eu usar quando quiser.            |     32     |   3    |  RNF-1   |
+|  19  |   Baixa    |                      Como desenvolvedor quero o ocultamento de dados sensíveis para a segurança dos meus dados.                      |     3      |   3    |   RF-1   |
 |  20  |   Baixa    |                  Como usuário quero recuperar minha senha para que quando eu esquecê-la eu não perder minha conta.                   |     7      |   3    |   RF-1   |
 |  21  |   Baixa    |                Como usuário quero alterar minha senha para eu ajusta-la de acordo com minha preferências e segurança.                |     5      |   3    |   RF-1   |
 |  22  |   Baixa    |                 Como usuário quero um manual de como utilizar o sistema para minha conveniência e agilização deste.                  |     3      |   3    |  RNF-3   |
@@ -70,8 +70,8 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint:
 | Sprint |   Início    |    Entrega  |                Status                 |                  Relatório                   |                          Vídeo                         |
 |:------:|:-----------:|:-----------:|:-------------------------------------:|:--------------------------------------------:|:------------------------------------------------------:|
 |   1    | 08/09/2025  |  28/09/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint1">Veja aqui</a> | <a href="https://youtu.be/DA4M8VQmLi8">Acesse aqui</a> |
-|   2    | 06/10/2025  |  26/10/2025 | :hourglass_flowing_sand: Em andamento | <a href="documentação/sprint2">Veja aqui</a> |                   :soon: Não Postado                   |
-|   3    | 03/11/2025  |  23/11/2025 |          :soon: Não iniciada          |                Sem Relatório                 |                   :soon: Não Postado                   |
+|   2    | 06/10/2025  |  26/10/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint2">Veja aqui</a> | <a href="https://youtu.be/y8vQah5-cqA">Acesse aqui</a> |
+|   3    | 03/11/2025  |  23/11/2025 | :hourglass_flowing_sand: Em andamento | <a href="documentação/sprint3">Veja aqui</a> |                   :soon: Não Postado                   |
 
 → [Voltar ao topo](#topo)
 
@@ -114,8 +114,8 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 Para visualizar o que foi documentado, <a href="documentação">Acesse aqui</a>. Nela você encontrará:
 - Checklist DoR e DoD
 - Estratégia de Branches
-<!-- - Manual de Usuário
-- Manual de Instalação -->
+- Manual de Usuário
+- Manual de Instalação
 
 → [Voltar ao topo](#topo)
 
