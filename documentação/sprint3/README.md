@@ -42,15 +42,15 @@ Abaixo estão os requisitos abordados nesta sprint:
 ## :bookmark_tabs: Sprint Backlog
 
 Abaixo está o backlog desta sprint:
-| Rank | Prioridade |                                                              User Story                                                              | Estimativa | Requisto |
-|:----:|:----------:|:------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|
-|  17  |   Média    |                    Como cliente quero o sistema hospedado em nuvem para facilitamento de utilização e segurança.                     |     41     |   RF-3   |
-|  18  |   Baixa    |            Como usuário quero que o sistema funcione tanto como um site, aplicativo e desktop para eu usar quando quiser.            |     32     |   RF-3   |
-|  19  |   Baixa    |                      Como desenvolvedor quero o ocultamento de dados sensíveis para a segurança dos meus dados.                      |     3      |   RF-3   |
-|  20  |   Baixa    |                  Como usuário quero recuperar minha senha para que quando eu esquecê-la eu não perder minha conta.                   |     7      |   RF-3   |
-|  21  |   Baixa    |                Como usuário quero alterar minha senha para eu ajusta-la de acordo com minha preferências e segurança.                |     5      |   RF-3   |
-|  22  |   Baixa    |                 Como usuário quero um manual de como utilizar o sistema para minha conveniência e agilização deste.                  |     3      |   RF-3   |
-|  23  |   Baixa    | Como desenvolvedor quero um manual de como instalar configurar e executar o sistema para facilitar a sua implementação e manutenção. |     3      |   RF-3   |
+| Rank | Prioridade |                                                              User Story                                                               | Estimativa | Requisto |                                                      DoD                                                                        |
+|:----:|:----------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+|  17  |   Média    |                    Como cliente quero o sistema hospedado em nuvem para facilitamento de utilização e segurança.                      |     41     |   RF-3   |                                Frontend e Backend rodando hospedado em numvem e se comunicando entre si                         |
+|  18  |   Baixa    |            Como usuário quero que o sistema funcione tanto como um site, aplicativo e desktop para eu usar quando quiser.             |     32     |   RF-3   |                                   Aplicação responsiva em várias aplicações como computador e celular                           |
+|  19  |   Baixa    |                      Como desenvolvedor quero o ocultamento de dados sensíveis para a segurança dos meus dados.                       |     3      |   RF-3   |                                      Ocultamento de dados sensíveis no código, colocando-as no .env                             |
+|  20  |   Baixa    |                  Como usuário quero recuperar minha senha para que quando eu esquecê-la eu não perder minha conta.                    |     7      |   RF-3   |                        Recuperação de senha pelo email, sendo que a senha esteja salva em segurança no banco de dados           |
+|  21  |   Baixa    |                Como usuário quero alterar minha senha para eu ajusta-la de acordo com minha preferências e segurança.                 |     5      |   RF-3   | Possibilitar que o usuário altere sua própria senha na aplicação, sendo que a senha esteja salva em segurança no banco de dados |
+|  22  |   Baixa    |                 Como usuário quero um manual de como utilizar o sistema para minha conveniência e agilização deste.                   |     3      |   RF-3   |                               Manual de usuário que explique o funionamento da aplicação para o usuário                         |
+|  23  |   Baixa    | Como desenvolvedor quero um manual de como instalar, configurar e executar o sistema para facilitar a sua implementação e manutenção. |     3      |   RF-3   |                                        Manual de instalação explicando como instalar a aplicação                                |
 
 - Meta da Sprint: 18, 19 e 20 
 - Previsão da Sprint: 17, 21, 22, 23
