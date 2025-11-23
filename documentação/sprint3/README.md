@@ -33,7 +33,8 @@ Sprint 3
 ## :clipboard: Épicos
 Abaixo estão os requisitos abordados nesta sprint:
 
-<!-- <img width="1157" height="176" alt="image" src="" /> -->
+<img width="1157" height="473" alt="image" src="https://github.com/user-attachments/assets/414ca3cd-bcf1-4903-9f8d-bbad96548714" />
+
 
 → [Voltar ao topo](#topo)
 
