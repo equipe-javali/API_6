@@ -33,7 +33,7 @@ Sprint 3
 ## :clipboard: Épicos
 Abaixo estão os requisitos abordados nesta sprint:
 
-<img width="1157" height="473" alt="image" src="https://github.com/user-attachments/assets/414ca3cd-bcf1-4903-9f8d-bbad96548714" />
+<img width="1157" alt="image" src="https://github.com/user-attachments/assets/414ca3cd-bcf1-4903-9f8d-bbad96548714" />
 
 
 → [Voltar ao topo](#topo)
@@ -90,11 +90,11 @@ Esta sprint só estará completa quando a equipe concluir:
 ## :chart_with_downwards_trend: Burndown da Sprint
 Abaixo está o fluxo de entregas desta sprint:
 
-<!-- <img
+<img
     alt="burndown_sprint_3"
     src="burndown.png"
     width="775"
-/> -->
+/>
 
 → [Voltar ao topo](#topo)
 
