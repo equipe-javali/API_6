@@ -102,7 +102,7 @@ Abaixo está o fluxo de entregas desta sprint:
 
 ## :rocket: MVP - Minimum Viable Product
 <p align="justify">
-    O produto mínimo viável desta sprint consiste na funcionalidade de recuperar senha. Além disso, o MVP contempla a implementação da responsividade do site, e na omissão de dados sensíveis da aplicação. <!-- Para visualizar o que foi desenvolvido no projeto, <a href="https://youtu.be/y8vQah5-cqA">acesse aqui</a>. /> -->
+    O produto mínimo viável desta sprint consiste na funcionalidade de recuperar senha. Além disso, o MVP contempla a implementação da responsividade do site, e na omissão de dados sensíveis da aplicação. Para visualizar o que foi desenvolvido no projeto, <a href="https://youtu.be/0mF5On5caEI">acesse aqui</a>. />
 </p>
 
 → [Voltar ao topo](#topo) 

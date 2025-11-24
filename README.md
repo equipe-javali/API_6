@@ -8,15 +8,14 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 </h1>
 <h1 align='center'> :keyboard:  :keyboard: </h1>
 
+### Veja a entrega final [Aqui](https://youtu.be/0mF5On5caEI)!
+
 ## :mag_right: Índice
 <p align='center'>
     <a href="#objetivo">Objetivo</a> | 
     <a href="#backlog">Backlog</a> |
     <a href="#sprints">Sprints</a> |
-    <a href="#tecnologias">Tecnologias</a> | <!-- 
-    <a href="#estrutura">Estrutura</a> |
-    <a href="#execucao">Execução</a> |
-    <a href="#teste">Teste</a> | -->
+    <a href="#tecnologias">Tecnologias</a>
     <a href="#documentacao">Documentação</a> |
     <a href="#equipe">Equipe</a> 
 </p>
@@ -25,6 +24,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 O objetivo do projeto é desenvolver um sistema de busca semântica, a partir da dataset fornecido pelo cliente Dom Rock, capaz de interpretar e responder perguntas dos usuários por meio de um agente de inteligência artificial integrado ao chat interativo. Além disso, deverá ter a funcionalidade de enviar um boletim, baseado no modelo fornecido pelo cliente, gerado pela ia com os dados de um dado período do dataset diretamente a um email.
+
 
 <span id="backlog">
 
@@ -71,7 +71,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint:
 |:------:|:-----------:|:-----------:|:-------------------------------------:|:--------------------------------------------:|:------------------------------------------------------:|
 |   1    | 08/09/2025  |  28/09/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint1">Veja aqui</a> | <a href="https://youtu.be/DA4M8VQmLi8">Acesse aqui</a> |
 |   2    | 06/10/2025  |  26/10/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint2">Veja aqui</a> | <a href="https://youtu.be/y8vQah5-cqA">Acesse aqui</a> |
-|   3    | 03/11/2025  |  23/11/2025 | :hourglass_flowing_sand: Em andamento | <a href="documentação/sprint3">Veja aqui</a> |                   :soon: Não Postado                   |
+|   3    | 03/11/2025  |  23/11/2025 |     :heavy_check_mark: Concluída      | <a href="documentação/sprint3">Veja aqui</a> | <a href="https://youtu.be/0mF5On5caEI">Acesse aqui</a> |
 
 → [Voltar ao topo](#topo)
 
@@ -89,24 +89,6 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Swagger](https://swagger.io): Documentação das rotas no back-end
 
 → [Voltar ao topo](#topo)
-
-<!-- <span id="estrutura">
-
-## 🏗️  Estrutura do Projeto
-
-→ [Voltar ao topo](#topo)
-
-<!-- <span id="execucao">
-
-## :gear: Instruções para Executar o Projeto 
-
-→ [Voltar ao topo](#topo)
-
-<!-- <span id="teste">
-
-## 🧪 Instruções para Testar o Projeto 
-
-→ [Voltar ao topo](#topo) -->
 
 <span id="documentacao">
 
